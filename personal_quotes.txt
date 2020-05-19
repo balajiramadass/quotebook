@@ -1,4 +1,5 @@
 my quote
 
 
-Merge confilicst
+Merge conflict
+
