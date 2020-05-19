@@ -1,0 +1,49 @@
+[33mcommit da03fcf43df1c71987ad748c4b03cc81d4ba3b4b[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 2f8b7f1 d10fbde
+Author: Balaji <sakthibalajimca26@gmail.com>
+Date:   Wed May 20 02:06:13 2020 +0530
+
+    fixed the merge conflicts
+
+[33mcommit 2f8b7f1d4013ea121e9506d797ecbc23e9695e6e[m
+Author: Balaji <sakthibalajimca26@gmail.com>
+Date:   Wed May 20 02:00:53 2020 +0530
+
+    changed color to green
+
+[33mcommit d10fbdeedefc95af110cbe23830cdbef711d72ae[m[33m ([m[1;32mpersonal_color[m[33m)[m
+Author: Balaji <sakthibalajimca26@gmail.com>
+Date:   Wed May 20 01:59:40 2020 +0530
+
+     change color yellow
+
+[33mcommit 4a469b992b8812454180f0755d09a2f4c01ee329[m
+Merge: 81c79da ad998dd
+Author: Balaji <sakthibalajimca26@gmail.com>
+Date:   Wed May 20 01:53:30 2020 +0530
+
+    Merge branch 'personal_quotes'
+
+[33mcommit 81c79dabd29e30811a64dbaf4f9acb6c0f777c7d[m
+Author: Balaji <sakthibalajimca26@gmail.com>
+Date:   Wed May 20 01:50:47 2020 +0530
+
+    added commit in master
+
+[33mcommit ad998dd31b17b30c0a07e6c38df7ef8a8039ca94[m[33m ([m[1;32mpersonal_quotes[m[33m)[m
+Author: Balaji <sakthibalajimca26@gmail.com>
+Date:   Wed May 20 01:47:50 2020 +0530
+
+    merge confilict
+
+[33mcommit a9ca2d048bc6546f38f050349f920c1f1f9367d5[m
+Author: Balaji <sakthibalajimca26@gmail.com>
+Date:   Wed May 20 01:24:01 2020 +0530
+
+    first commit on personal quote branch
+
+[33mcommit c943536369196349bafaf94264527ba45f3da338[m
+Author: Balaji <sakthibalajimca26@gmail.com>
+Date:   Wed May 20 00:40:04 2020 +0530
+
+    initial Commit
